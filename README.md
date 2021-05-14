@@ -1,2 +1,5 @@
-- Hi! My name is Vinicius and I am a student in the school "Senac São Leopoldo", currently learning how to use HTML!
-- In my free time i like to draw and play some games.
+- Hello!
+- My name is Vinicius, currently i am a student in the school "Senac São Leopoldo".
+- Currently learning how to make code in HTML!
+- In my free time i loooove to practice my drawing skills and make some characters.
+- I also play some games.
