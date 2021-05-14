@@ -1,0 +1,2 @@
+- Hi! My name is Vinicius and I am a student in the school "Senac São Leopoldo", currently learning how to use HTML!
+- In my free time i like to draw and play some games.
