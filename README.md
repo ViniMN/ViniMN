@@ -1,5 +1,5 @@
 - Hello!
-- My name is Vinicius, currently i am a student in the school "Senac São Leopoldo".
-- Currently learning how to make code in HTML!
+- My name is Alice, currently i am a student in the school "Senac São Leopoldo".
+- Currently learning how to make code in HTML! Thanks to Paula I am finally learning it-
 - In my free time i loooove to practice my drawing skills and make some characters.
-- I also play some games.
+- I also play some games. Limbus Company and Omori follow me around and casually drive me crazy.
